@@ -1,1 +1,1 @@
-# epistemic_trust_portfolio
+This is a research poster I created with Dr. Christopher Lawson. I was an undergraduate research assistand and helped to create the Qualtrics survey, find relevant past works, and create the poster. I presented this at a Research Symposium.
